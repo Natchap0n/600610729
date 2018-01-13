@@ -1,10 +1,9 @@
 #include<iostream>
-
 using namespace std;
 
 int main()
 {
 	cout << "Hello there";
-	cout << "\nMaster Kenobi";
+	cout << "\nMaster Skywalker";
 	return 0;
 }
